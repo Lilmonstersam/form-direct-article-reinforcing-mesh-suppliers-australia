@@ -14,6 +14,7 @@ Static article page mockup for the Form Direct article "Reinforcing Mesh Supplie
 - `reinforcing-mesh-suppliers-australia.md` - SEO article copy used for the mockup.
 - `README.md` - Repo documentation and file map.
 - `.nojekyll` - Allows GitHub Pages to serve the static files without Jekyll processing.
+- `.github/workflows/deploy.yml` - GitHub Actions workflow that publishes the static mockup to GitHub Pages.
 
 ## Notes
 
@@ -24,3 +25,7 @@ Static article page mockup for the Form Direct article "Reinforcing Mesh Supplie
 ## Local Preview
 
 Open `index.html` in a browser, or serve the folder with any static server.
+
+## Deployment
+
+Pushing to `main` runs the GitHub Pages workflow. In the GitHub repo, go to **Actions** to view the deployment run and **Settings > Pages** to confirm the live Pages URL.
