@@ -25,17 +25,23 @@ Before comparing reo suppliers, match the product category to the job. Start wit
 
 ### Square reinforcing mesh
 
+![Square reinforcing mesh](https://formdirect.com.au/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_17416.jpg)
+
 Square reinforcing mesh is commonly used in concrete slabs where reinforcement is needed in both directions. Form Direct's [square reinforcing mesh](https://formdirect.com.au/reinforcing-accessories/steel-fibre-reinforcing/square-reinforcing-mesh/) category includes SL reo mesh sheets such as SL62, SL72, SL82, SL92 and SL102 in 6m x 2.4m sheet formats.
 
 These products are often used for slabs, driveways, pavements and other flat concrete elements, subject to engineering requirements.
 
 ### Rectangular reinforcing mesh
 
+![Rectangular reinforcing mesh](https://formdirect.com.au/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_17334.jpg)
+
 Rectangular mesh is used where the reinforcement demand differs across the two directions of the slab or panel. Form Direct's [rectangular reinforcing mesh](https://formdirect.com.au/reinforcing-accessories/steel-fibre-reinforcing/rectangluar-reinforcing-mesh/) category lists RL mesh options such as RL718, RL818, RL918, RL1018, RL1118 and RL1218.
 
 As with any mesh selection, the final product should be checked against the drawings or the engineer's schedule.
 
 ### Trench reinforcing mesh
+
+![Trench reinforcing mesh](https://formdirect.com.au/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/3/b/3bar_trench_mesh_3.jpg)
 
 Trench mesh is designed for narrow concrete elements such as footings, beams and structural bases. If you are comparing trench mesh sizes in Australia, you will commonly see products described by the number of longitudinal bars and bar diameter, such as 3-bar, 4-bar, 5-bar or 6-bar trench mesh.
 
@@ -54,7 +60,7 @@ The best steel mesh supplier for your project is the one that reduces risk. That
 | Delivery control | Do they plan bulky mesh delivery around site access and timing? | Mesh sheets and reo are hard to move without the right transport plan. |
 | Local service | Do they understand your region and job type? | Local branches and delivery planning make urgent supply easier to manage. |
 
-Form Direct's [services](https://formdirect.com.au/services/) page highlights four areas worth looking for in a reo supplier: construction estimating, scheduling, production and custom construction solutions, and in-house delivery planning. Those services matter because reinforcing mesh is bulky, sequence-sensitive and often tied to inspection or pour deadlines.
+We provide comprehensive project support across four key areas: construction estimating, scheduling, production and custom construction solutions, and in-house delivery planning. These services matter because reinforcing mesh is bulky, sequence-sensitive and often tied to inspection or pour deadlines.
 
 ## Why delivery and scheduling matter as much as the mesh
 
@@ -66,19 +72,15 @@ Form Direct describes delivery as a critical part of keeping work on schedule, n
 
 If you are looking for steel mesh suppliers near your site, focus on the practical details that affect the next pour: whether the branch can confirm stock, how quickly the order can be picked and packed, what delivery options are available, and whether the team understands local access constraints.
 
-Form Direct has trade shop locations in Queensland and Victoria, with service areas listed on the [contact page](https://formdirect.com.au/contact-us/). The Bundaberg branch services areas including Bundaberg, Burnett, Gladstone, Hervey Bay, Maryborough, Gympie and the Fraser Coast. The Rockhampton branch services Rockhampton, the Capricorn Coast, Emerald, Blackwater, the Bowen Basin, Mackay and Moranbah. The Moe branch services Gippsland, the Latrobe Valley, Warragul, Traralgon, Sale, Maffra and surrounding areas.
+For those in the area, Form Direct services Queensland and Victoria from our trade shop locations. Our Bundaberg branch services Bundaberg, Burnett, Gladstone, Hervey Bay, Maryborough, Gympie and the Fraser Coast. Our Rockhampton branch covers Rockhampton, the Capricorn Coast, Emerald, Blackwater, the Bowen Basin, Mackay and Moranbah. In Victoria, our Moe branch supports Gippsland, the Latrobe Valley, Warragul, Traralgon, Sale, Maffra and surrounding areas.
 
-That local footprint is useful when a job needs bulky reo mesh delivered by the supplier rather than handled through a generic courier pathway.
+This local footprint is critical when a job needs bulky reo mesh delivered directly by our team rather than handled through a generic courier pathway.
 
-## Example: avoiding a missed slab pour
+## Why Form Direct is the right reinforcing partner
 
-Form Direct's project pages show why supply coordination matters on real builds. For [Mira Living Bargara](https://formdirect.com.au/projects/mira-living-bargara/), Form Direct supplied reinforcing steel, formwork and construction consumables for IDC Construct, with estimating, scheduling, production and delivery support. [Kepnock McDonald's Restaurant](https://formdirect.com.au/projects/kepnock-mcdonalds/) also appears in Form Direct's commercial project portfolio. In both cases, mesh, reo, formwork and consumables need to arrive before the pour window tightens.
+Choosing the right reinforcing partner is about finding a team that can support your project from drawing to pour. Our work on projects like [Mira Living Bargara](https://formdirect.com.au/projects/mira-living-bargara/) (where we supplied reinforcing steel, formwork and construction consumables for IDC Construct) demonstrates the value of coordinating estimating, scheduling, production and delivery. When mesh, reo, formwork and consumables are delivered as a unified package, you eliminate site delays before the pour window tightens.
 
-## Look for proof across project types
-
-A reinforcing mesh supplier should be able to support the type of work you do, not only sell a single product category. Form Direct's [projects page](https://formdirect.com.au/projects/) groups supplied projects by type, location and product category, including residential builder, commercial construction, concreter industry professional, civil and major, and reinforcing and accessories filters.
-
-The homepage also features supplied projects such as Kepnock McDonalds, Bundaberg Harley Davidson and Kepnock Shopping Centre. These examples point to a supplier working across commercial, retail and builder-led environments where timing, correct materials and delivery coordination all matter.
+Our capability extends across residential, commercial and civil projects. Whether it is commercial builds like [Kepnock McDonald's Restaurant](https://formdirect.com.au/projects/kepnock-mcdonalds/), Bundaberg Harley Davidson and Kepnock Shopping Centre, or major civil works, we tailor our reinforcing supply to the precise demands of your job. You can view our full track record on our [projects page](https://formdirect.com.au/projects/), where you can filter our past work by industry sector and product category.
 
 ## Questions to ask before ordering reo mesh
 
